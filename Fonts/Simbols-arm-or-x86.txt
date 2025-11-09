@@ -4,3 +4,51 @@
 []{}#%^*+=
 _\|~<>€£¥•
 .,?!'
+| Símbolo | Nome | Símbolo | Nome |
+|---|---|---|---|
+| ⋆ | Estrela Simples | ✦ | Estrela de Oito Pontas |
+| ✢ | Estrela de Dezesseis Pontas | ✿ | Flor de Cerejeira |
+| ✤ | Estrela com Lágrima | ✥ | Cruz de Malta |
+| ⚝ | Estrela Dupla | ⚜ | Flor-de-lis |
+| © | Círculo com C | ® | Círculo com R |
+⌗ Arte e Geometria
+Essa categoria é ótima para criar bordas, divisórias ou desenhar pequenas formas.
+ * Linhas:
+   * Horizontal: ⎯ ⏤ ⎼ ⎻
+   * Vertical: ┊ ╎ ┆
+   * Diagonal: ╱ ╲ ╳
+ * Blocos e Sólidos:
+   * ◼ (Quadrado Preto)
+   * ▪ (Quadrado Pequeno)
+   * 🞋 (Losango com Ponto)
+   * ◆ (Losango Preto)
+   * ◖ (Meio Círculo Esquerdo)
+   * ◗ (Meio Círculo Direito)
+ * Ornamentos:
+   * ❦ (Folha de Coração)
+   * ❧ (Folha Invertida)
+   * ⟦ (Colchete Duplo Esquerdo)
+   * ⟧ (Colchete Duplo Direito)
+   * ⸎ (Ponto de Oito Pontas)
+☜ Setas e Indicadores Únicos
+| Símbolo | Descrição | Símbolo | Descrição |
+|---|---|---|---|
+| ➤ | Seta Triangular Preenchida | ➥ | Seta com Cauda Curva |
+| ↱ | Seta para Canto Superior Direito | ↰ | Seta para Canto Superior Esquerdo |
+| ⇲ | Seta Circular (Download) | ⇱ | Seta Circular (Upload) |
+| ☞ | Mão Apontando para Direita | ☟ | Mão Apontando para Baixo |
+⚛ Ciência e Matemática Diferenciada
+ * Símbolos Matemáticos:
+   * ∅ (Conjunto Vazio)
+   * ∞ (Infinito)
+   * ∫ (Integral)
+   * ≈ (Aproximadamente Igual)
+ * Unidades e Medidas:
+   * ℃ (Graus Celsius)
+   * ℉ (Graus Fahrenheit)
+   * Ω (Ohm / Ómega)
+   * µ (Micro)
+🎵 Música e Cultura
+ * Notas Musicais: ♩ ♪ ♫ ♬ ♭ ♮ ♯
+ * Baralho: ♠ ♡ ♢ ♣ (O naipe de coração é ♡ e não o emoji comum ❤️)
+ * Línguas Raras: Tente caracteres de alfabetos menos comuns, como ᚠ (Fehu, Runa Nórdica) ou ༄ (Om, Tibetano).
