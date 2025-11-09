@@ -18,3 +18,57 @@
 	18.	Fenœjundrakalup → “retrato simbólico da história”
 	19.	Dekorafandresklypse → “monumento à paz eterna”
 	20.	Ultrafantasiewortflumpt → “palavra com significado universal”
+1.	Fœkavandroschleifen → portal mágico
+	2.	Dekabedefakadeburocafa → edifício governamental supremo
+	3.	Schleifenkavundros → ponte mística
+	4.	Thraxüpervolkan → vulcão sagrado
+	5.	Burokafandreschel → mercado central
+	6.	Vandroschleifenkor → festival anual de luzes
+	7.	Dekorafandresklypse → monumento à paz eterna
+	8.	Kavandroschleifwerk → oficina de engenhocas mágicas
+	9.	Xjundrakarbleffen → fortaleza lendária
+	10.	Fenœjundrakalup → templo antigo
+	11.	Megakavundrosplatz → praça principal da cidade
+	12.	Fœrakundajelvrix → torre de energia vital
+	13.	Ultraklarschleifenhall → salão de assembleias
+	14.	Extragigantfœrak → arena de duelos
+	15.	Hyperfantasiewortpalast → palácio da imaginação
+	16.	Kavundrosfœtres → torre de observação
+	17.	Schlepfenburgklypte → castelo histórico
+	18.	Xjübermegaflume → rio lendário
+	19.	Dekarundfœhallen → biblioteca sagrada
+	20.	Fantasiekavundrosplatz → jardim místico
+	21.	Noxfuekakajanedekaba → ritual de invocação noturna
+	22.	Flumpfenœkorridor → corredor secreto
+	23.	Bergundroschleifen → montanha lendária
+	24.	Ultramegafœhallen → arena ceremonial
+	25.	Kavundrosklyptesaal → sala de conselhos
+
+⸻
+
+2. Objetos Mágicos / Instrumentos (25 palavras)
+	26.	Kahundrakelflöten → instrumento musical gigante
+	27.	Xjüperklangfabrik → fábrica de sons
+	28.	Fœrakundajelvrix → poção de energia vital
+	29.	Extrahypermalfœrik → arte de criação de palavras épicas
+	30.	Ultramegafantasiewortflumpt → palavra universal
+	31.	Schlepfenfœinstrument → instrumento ritualístico
+	32.	Kavundrosflammballon → globo de fogo mágico
+	33.	Xjundrakaflamme → lâmpada mística
+	34.	Fenœjundrakastab → bastão lendário
+	35.	Dekabedefakadekorb → cesta cerimonial
+	36.	Fœkavandrosamulett → amuleto de proteção
+	37.	Vandroschleifenring → anel de poder
+	38.	Thraxüpervolkankristall → cristal sagrado
+	39.	Burokafandreszepter → cetro ancestral
+	40.	Flumpfenœlichtstab → bastão de luz
+	41.	Megakavundrosperle → pérola mágica
+	42.	Ultraklarschleifenbuch → livro encantado
+	43.	Extragigantfœraklampe → lâmpada de energia
+	44.	Hyperfantasiewortsiegel → selo de palavras mágicas
+	45.	Kavundrosfœdolch → adaga ritual
+	46.	Schlepfenburgklypteschlüssel → chave de castelo
+	47.	Xjübermegaflumering → anel do rio lendário
+	48.	Dekarundfœamulet → amuleto antigo
+	49.	Fantasiekavundrosstab → bastão místico
+	50.	Noxfuekakajanedekabakristall → cristal da noite
