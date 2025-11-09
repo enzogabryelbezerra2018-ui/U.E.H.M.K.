@@ -72,3 +72,58 @@
 	48.	Dekarundfœamulet → amuleto antigo
 	49.	Fantasiekavundrosstab → bastão místico
 	50.	Noxfuekakajanedekabakristall → cristal da noite
+3. Criaturas Lendárias (25 palavras)
+	51.	Ideidegaflumptor → criatura lendária
+	52.	Xjundrakaluphant → besta voadora mística
+	53.	Fœkavandroschleifenwyrm → dragão dimensional
+	54.	Dekabedefakadeburocafaun → guardião da floresta
+	55.	Flumpfenœgargantua → gigante da montanha
+	56.	Kavundroschleifenhydra → hidra das cavernas
+	57.	Thraxüpervolkandrakon → serpente de fogo sagrado
+	58.	Burokafandresfenrir → lobo ancestral
+	59.	Vandroschleifenchimära → quimera mística
+	60.	Schlepfenburgklyptesphinx → esfinge guardiã
+	61.	Xjübermegaflumenvogel → pássaro lendário
+	62.	Fenœjundrakagolem → golem de pedra
+	63.	Extrahypermalfœrikcerberus → cão de três cabeças místico
+	64.	Ultraklarschleifenunicorn → unicórnio mágico
+	65.	Megakavundrosgriffon → grifo guardião
+	66.	Fantasiekavundrosdrake → dragão da fantasia
+	67.	Noxfuekakajanedekabasilisk → basilisco noturno
+	68.	Dekarundfœkraken → kraken das profundezas
+	69.	Xjüperklangfabriknymph → ninfa do som
+	70.	Fœrakundajelvrixphoenix → fênix renascida
+	71.	Kavundrosfœminotaur → minotauro lendário
+	72.	Flumpfenœdjinn → djinn elemental
+	73.	Ultramegafœhallenserpent → serpente gigante
+	74.	Extragigantfœrakwyvern → wyvern épico
+	75.	Hyperfantasiewortchimera → quimera suprema
+
+⸻
+
+4. Verbos / Ações Mágicas (25 palavras)
+	76.	Fœrakundajelvrixieren → conjurar energia vital
+	77.	Xjundrakaluphantifizieren → invocar criatura lendária
+	78.	Dekabedefakadekorbieren → preparar ritual cerimonial
+	79.	Vandroschleifenkorren → iluminar festival
+	80.	Thraxüpervolkanisieren → despertar o vulcão sagrado
+	81.	Burokafandreszeptern → empunhar cetro ancestral
+	82.	Flumpfenœlichter → criar luz mágica
+	83.	Megakavundrosperlen → gerar pérolas místicas
+	84.	Ultraklarschleifenbuchieren → ler livro encantado
+	85.	Extragigantfœraklampen → acender lâmpadas de energia
+	86.	Hyperfantasiewortsiegeln → selar palavras mágicas
+	87.	Kavundrosfœdolchen → brandir adaga ritual
+	88.	Schlepfenburgklypteschlüsseln → destrancar segredos
+	89.	Xjübermegaflumeringern → usar anel lendário
+	90.	Dekarundfœamuletieren → ativar amuleto
+	91.	Fantasiekavundrosstabieren → canalizar bastão místico
+	92.	Noxfuekakajanedekabakristallisieren → energizar cristal da noite
+	93.	Ideidegaflumptorisieren → evocar criatura lendária
+	94.	Fœkavandroschleifenfliegen → voar pelo portal mágico
+	95.	Kavundroschleifenhydrieren → hidratar a hidra
+	96.	Ultramegafœhallenentzünden → acender arena ceremonial
+	97.	Extragigantfœrakbeschwören → invocar magia suprema
+	98.	Hyperfantasieworttransformieren → transformar palavras em realidade
+	99.	Xjüperklangfabrikieren → criar sons estrondosos
+	100.	Dekarundfœkrakenfesseln → prender kraken lendário
