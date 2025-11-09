@@ -1,0 +1,19 @@
+Letras básicas:
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+Letras com diacríticos e especiais:
+Ä Ö Ü ß Œ Æ ƒ Þ Ø Ñ
+
+Combinações “oficiais” do idioma:
+	•	ae → som longo de “áê”
+	•	œ → som “eu”
+	•	kh → som gutural pesado
+	•	xj → som explosivo, tipo “ksh”
+	•	fœ → som místico do idioma
+	•	nk → nasal forte, usado no final de palavras
+	•	dj → som “dji”, para nomes próprios
+
+Regras básicas de pronúncia:
+	1.	Vogais podem se alongar: A → Aa, E → Ee
+	2.	Consoantes duplas enfatizam o som: KK, TT, FF
+	3.	Combinações especiais têm sempre significado único, tipo “Fœ” = “magia”
