@@ -127,3 +127,58 @@
 	98.	Hyperfantasieworttransformieren → transformar palavras em realidade
 	99.	Xjüperklangfabrikieren → criar sons estrondosos
 	100.	Dekarundfœkrakenfesseln → prender kraken lendário
+5. Plantas / Elementos Naturais Mágicos (25 palavras)
+	101.	Fœkraflumpenblatt → folha mágica que brilha à noite
+	102.	Kavundroschleifenpilz → cogumelo encantado
+	103.	Xjundrakaluphantbaum → árvore mística gigante
+	104.	Dekabedefakadekoralle → coral sagrado do mar
+	105.	Vandroschleifenkoren → planta que emite som
+	106.	Thraxüpervolkansamen → semente do vulcão sagrado
+	107.	Burokafandresblüte → flor ritualística
+	108.	Flumpfenœwurz → raiz de poder
+	109.	Megakavundrosmoos → musgo que cura
+	110.	Ultraklarschleifenranke → videira mágica
+	111.	Extragigantfœrakfrucht → fruta lendária
+	112.	Hyperfantasiewortblatt → folha com símbolos mágicos
+	113.	Kavundrosfœpilz → cogumelo de energia vital
+	114.	Schlepfenburgklypterd → planta guardiã
+	115.	Xjübermegaflumenblatt → folha do rio lendário
+	116.	Dekarundfœwurzel → raiz ancestral
+	117.	Fantasiekavundrosblüte → flor de iluminação
+	118.	Noxfuekakajanedekablatt → folha noturna
+	119.	Ideidegaflumptorsamen → semente de criatura lendária
+	120.	Fœkavandroschleifenknospe → botão de flor mística
+	121.	Kavundroschleifenpilzling → cogumelo pequeno mágico
+	122.	Ultramegafœhallengras → grama encantada
+	123.	Extragigantfœrakblattwerk → folhagem épica
+	124.	Hyperfantasiewortfrucht → fruta de palavras mágicas
+	125.	Xjüperklangfabrikblüte → flor sonora
+
+⸻
+
+6. Conceitos / Ideias Abstratas (25 palavras)
+	126.	Fœrakundajelvrixienergia → energia vital
+	127.	Xjundrakaluphantfokus → concentração máxima
+	128.	Dekabedefakadekorallogik → lógica ancestral
+	129.	Vandroschleifenkorwahrheit → verdade mística
+	130.	Thraxüpervolkanmut → coragem do vulcão
+	131.	Burokafandresweisheit → sabedoria antiga
+	132.	Flumpfenœglaube → fé lendária
+	133.	Megakavundrosfantasie → imaginação suprema
+	134.	Ultraklarschleifenidee → ideia brilhante
+	135.	Extragigantfœrakvision → visão épica
+	136.	Hyperfantasiewortträume → sonhos de palavras mágicas
+	137.	Kavundrosfœgeheimnis → segredo ancestral
+	138.	Schlepfenburgklypterstärke → força do castelo
+	139.	Xjübermegaflumenerkenntnis → conhecimento místico
+	140.	Dekarundfœkrakenverstand → inteligência lendária
+	141.	Fantasiekavundrosmystik → misticismo supremo
+	142.	Noxfuekakajanedekaverständnis → compreensão noturna
+	143.	Ideidegaflumptorvision → visão da criatura lendária
+	144.	Fœkavandroschleifenidee → ideia do portal mágico
+	145.	Kavundroschleifenweisheit → sabedoria mística
+	146.	Ultramegafœhallenfokus → concentração ritualística
+	147.	Extragigantfœrakenergie → energia suprema
+	148.	Hyperfantasiewortkraft → força das palavras
+	149.	Xjüperklangfabrikvision → visão sonora
+	150.	Dekabedefakadekorallmystik → misticismo coral
