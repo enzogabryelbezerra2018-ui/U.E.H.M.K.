@@ -1,0 +1,4 @@
+$FONT_ARCHIVE:[
+directore:Fonts/oficial-font-arm-or-x86.txt
+copyrhigt: YES
+]
