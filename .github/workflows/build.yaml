@@ -1,0 +1,42 @@
+name: UltraMonster Language Builder
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  expand-vocabulary:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Create folder if missing
+      run: mkdir -p Fonts
+
+    - name: Generate new words
+      run: |
+        FILE="Fonts/oficial-font-arm-or-x86.txt"
+        touch $FILE
+        # Gera 50 novas palavras épicas por execução
+        PREFIXES=(Ultra Mega Hyper Extragigant Fœ Xj Dekabe Vandros Thrax)
+        CORES=(schleifen kavundros fœ jundrak klypte flum fabr hall palast)
+        SUFIXES=(ieren werk platz stab ring blüte pilz kor drachen)
+        for i in {1..50}; do
+          PREFIX=${PREFIXES[$RANDOM % ${#PREFIXES[@]}]}
+          CORE=${CORES[$RANDOM % ${#CORES[@]}]}
+          SUFFIX=${SUFIXES[$RANDOM % ${#SUFIXES[@]}]}
+          WORD="$PREFIX$CORE$SUFFIX"
+          echo $WORD >> $FILE
+        done
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add $FILE
+        git commit -m "Add 50 new UltraMonster words"
+        git push
